@@ -1,0 +1,4 @@
+export function pedirNome() {
+  const nome = prompt("Digite seu nome:");
+  console.log(nome);
+}
